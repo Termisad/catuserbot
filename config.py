@@ -8,7 +8,7 @@ class Development(Config):
     # the name to display in your alive message
     ALIVE_NAME = "TERMINATOR"
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
-    DB_URI = "mongodb+srv://royalboi:priyanshu1@cluster0.iywcx.mongodb.net/?retryWrites=true&w=majority"
+    DB_URI = "postgres://msyorlvw:FYWV4jz8F1vGVWjXFpSEz62LN1z1CNSU@kesavan.db.elephantsql.com/msyorlvw"
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
     STRING_SESSION = "1BVtsOHwBu3bM4Ag-scvMEktsZ_F5FLAyXK3FRDCZ2fKulTUQ8TKSXk6mvgCog2pY8J4qpiMWuPqIOLEibiAUd76DHUkM4eQsRuFdfRW5dst9LN0RosWseKAcaNEDlhdwMRu_Stby3IAqbX8fn0JoMsHTfPyMPhIlCrGGPJb-WJmgR2qYNwaXlm6QMwLBBemLCMcaGG_TjA3AS16jVECfi7SekhwpNdeHDVXdB_afi48fyLPyklc6-4wFy8wbq3y-mzdwvMDW0M0m3iTNf5R7fnmC8RBXlcyvRvhdaZwm8T7SWvPmKfqHUHmbAQPIn8GBMtcLzJMJN635vxQQhqxoXcUToaSmvtE="
     # create a new bot in @botfather and fill the following vales with bottoken
